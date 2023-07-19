@@ -1,0 +1,28 @@
+.grid {
+    width: 61px;
+    height: 61px;
+    border-radius: 50%;
+}
+.chosen-black-grid {
+    background-color: black;
+}
+.chosen-white-grid {
+    background-color: rgb(219, 200, 194);
+}
+.line {
+    display: flex;
+}
+.square {
+    height: 30px;
+    width: 30px;
+}
+.square-up-left {
+    border-bottom: solid 1px;
+    border-right: solid 1px;
+}
+.square-up-right {
+    border-bottom: solid 1px;
+}
+.square-bottom-left {
+    border-right: solid 1px;
+}

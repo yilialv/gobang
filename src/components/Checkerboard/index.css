@@ -1,0 +1,13 @@
+.checkerboard {
+    display: flex;
+    font-size: 30px;
+    padding: 20px;
+}
+.board {
+    display: flex;
+    flex-direction: column;
+}
+.restart {
+    width: 100px;
+    height: 50px;
+}
